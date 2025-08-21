@@ -40,7 +40,8 @@ The entire process is orchestrated by Apache Airflow, which provides a reliable 
 1.  **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/viswackreddy/first-streaming-etl-pipeline-Live-Beer-API-Data-/tree/main
+   
     cd your-repo-name
     ```
 
